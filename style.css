@@ -92,6 +92,8 @@ a {
   color: var(--color-accent);
   text-decoration: underline;
   text-underline-offset: 2px;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 a:hover,
